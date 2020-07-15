@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am bakrib on github.
+  * I am it756 (https://keybase.io/it756) on keybase.
+  * I have a public key ASDWMmZIynQ1QO-DYOl61bhPLxI5swkuR9jrhp3bJSVytAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d6326648ca743540ef8360e97ad5b84f2f1239b3092e47d8eb869ddb252572b40a",
+      "host": "keybase.io",
+      "kid": "0120d6326648ca743540ef8360e97ad5b84f2f1239b3092e47d8eb869ddb252572b40a",
+      "uid": "64fb9226a9b6b66ce311fe73c758ac19",
+      "username": "it756"
+    },
+    "merkle_root": {
+      "ctime": 1594828639,
+      "hash": "b7afdb268cc0cbeda89b8e1c8c50ce2b2f4f3564fe25b1c39c41e1f9204a1b0bdf7f9e955cbe12e4882877b9a0c57d7384a6683ca6e79c8fd2a368807ed627ed",
+      "hash_meta": "d2fd0685f7820a3e5bb08df8bcdde96f97653a637d8e5ae359458c3f2eaf612a",
+      "seqno": 16978973
+    },
+    "service": {
+      "entropy": "nSLhV89ldtL9VdRimXgK620r",
+      "name": "github",
+      "username": "bakrib"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1594828863,
+  "expire_in": 504576000,
+  "prev": "b69f0ce931d3347fa5785ae3ff66c1d899e7ebf6eebcd17c795cfd4a660017f2",
+  "seqno": 12,
+  "tag": "signature"
+}
+```
+
+with the key [ASDWMmZIynQ1QO-DYOl61bhPLxI5swkuR9jrhp3bJSVytAo](https://keybase.io/it756), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1jJmSMp0NUDvg2DpetW4Ty8SObMJLkfY64ad2yUlcrQKp3BheWxvYWTESpcCDMQgtp8M6THTNH+leFrj/2bB2Jnn6/buvNF8eVz9SmYAF/LEINBJzBtKIZW6we6qfOTI81rau2HSGUauTcpA6M8Or0L8AgHCo3NpZ8RAGpgkaghBBfY7eCc/Gt59O8PW8fv7Q6Jot3S86O5qRwNQspoFZTYQXqtGi1MmhwE8IvPCeKYcN83w02Ln5gP8DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJqTKJi70B2AOZqaf0bExpSoYIpJrooCvGgBXffG8cuGo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/it756
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id it756
+```
